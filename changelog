@@ -1,3 +1,4 @@
+- 2026年5月21日，完成对 18 个 Notion 文档的本地化快照（含图片下载），按博士成长阶段重组为 8 章节的 `content/` 目录，提供完整的线性阅读路径，详见 [SUMMARY.md](SUMMARY.md) 和新版 [README.md](README.md)。原 README + getting_*.md 移到 `docs-legacy/` 备查。
 - 2026年5月8日，更新了文档《怎么rebuttal》:https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022，增加了Rebuttal的语言风格。
 - 2026年5月3日，更新了文档《怎么rebuttal》:https://www.notion.so/pengsida/rebuttal-af99ce47103e4917b6a5bd1fd4b3c022，增加了Rebuttal的基本流程图。
 - 2026年1月25日，更新了文档《怎么找论文》:https://www.notion.so/pengsida/c278dab7e4764d61a92c1fd1ef3135b1，增加了基于Deep Research找论文。
