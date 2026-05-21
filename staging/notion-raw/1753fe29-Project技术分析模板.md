@@ -57,8 +57,6 @@ xx
 
 #### 确定开头想满足的应用需求，是否是当前最重要、最有价值的需求
 
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 爱因斯坦说过：If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.
 
 对爱因斯坦这句话的解读
@@ -132,7 +130,7 @@ xx
 
 该问题属于第几种情况：第一/二/三/四种情况
 
-![](/image/attachment%3A6ea94f99-bb4e-4dea-adc2-aa7d638642a5%3Aimage.png?table=block&id=19a3fe29-2ff1-8071-89d3-c8b845dcf4d9&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=1040&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/1753fe29-Project技术分析模板/img-01.png)
 
 #### 问题拆解
 
@@ -150,15 +148,13 @@ xx
 
 #### 可能可以用上的新技术
 
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 解决问题，意味着我们得卷过之前的研究人员，要比他们在这个问题上有更好的答案。
 
 有以下两种方法：
 
 有新的技术革新，或者其他领域的技术，或者没被人发掘过的老技术，我们能吃这种新鲜技术的红利来超越前人。
 
-![](/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F952f5f87-b692-4249-a557-7f7ad0a77d56%2Ff4cb1e2d-0877-42c0-be96-8194e85a5dc9%2Fimage.png?table=block&id=1bd3fe29-2ff1-8095-940b-ecd20dc635a3&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=640&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/1753fe29-Project技术分析模板/img-02.png)
 
 真得比之前的人（全世界范围内的研究人员）聪明，自己发明出新技术范式。
 

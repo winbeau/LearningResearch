@@ -17,13 +17,13 @@ Michael\_Nielsen的科研经验.pdf
 你的科研能力从什么时候开始突飞猛进的？ - 叶小飞的回答 - 知乎
 <https://www.zhihu.com/question/524855881/answer/2819447733>
 
-![](/image/attachment%3Ab46ad1d2-b496-4737-afa6-7cd1c0b83a9b%3Aimage.png?table=block&id=1933fe29-2ff1-8087-b9e9-f02acc5a237e&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=960&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-01.png)
 
-![](/image/attachment%3A3df343dd-5dc1-4a96-b200-36e148aefc20%3Aimage.png?table=block&id=1933fe29-2ff1-805f-b1fe-cb7141fd116b&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=960&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-02.png)
 
-![](/image/attachment%3Ad9e05db2-bfb9-4166-94c7-f9d38344da9b%3Aimage.png?table=block&id=1933fe29-2ff1-8049-8cb0-dff8ef49d81c&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=960&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-03.png)
 
-![](/image/attachment%3Aa6b6d15c-f65d-4478-b74b-427f615b5455%3Aimage.png?table=block&id=1933fe29-2ff1-80f1-b7cd-fdcae42eab2a&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=960&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-04.png)
 
 想idea分为两步：选择一个好的问题，然后解决它。
 
@@ -43,8 +43,6 @@ Michael\_Nielsen的科研经验.pdf
 
 选题：根据novelty-tree列出的roadmap，选择有研究空间的task，调研这个task有没有重要的technical challenge。选题是对一个research project影响最大的一步，而不是后面的想方法。
 
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 怎么找到重要的科研问题：
 去思考这个任务长远的目标，一个最终形态是怎样的。
 为什么当前工作只在这些数据上做，而不在其他数据上做。应该尝试更多的general cases的数据。
@@ -52,11 +50,9 @@ Michael\_Nielsen的科研经验.pdf
 
 高水平科研工作者对“寻找重要的科研问题”的看法
 
-![](/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F2becd311-d5e4-4644-a63e-5af5aa2affbf%2FUntitled.png?table=block&id=b803c4be-c27c-4e29-aeff-64de4fa51c7e&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=890&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-05.png)
 
 选题：思考当前的failure case是否存在well-established solution。如果有，就不要解决这个failure case，换一个问题。如果没有，那么解决这个failure case的技术方法一定是新颖的。
-
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 怎么判断当前的failure case是否存在well-established solution：
 
@@ -79,8 +75,6 @@ Michael\_Nielsen的科研经验.pdf
 
 我的做法是：（1）构建challenge-insight tree。（2）选择challenge-insight tree中的某些技术，通过创新性的组合来解决当前任务的technical challenge。（3）把可能的pipeline都列出来，然后对比优劣势，选择一个pipeline。
 
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 一个高水平科研工作者认为：技术的本质就是对方法做组合，把小的技术组合成大的技术，把老的技术组合成新的技术。
 组合已有的技术并挖掘其在新的任务、新的数据上的性质，是一个很大的贡献。
 组合不能是input → A → intermediate output → B → output这种完全A + B的组合（完全拼接式的组合）。组合需要是具有创新性的组合。
@@ -98,14 +92,12 @@ MVP把neural volumes和local radiance fields两个技术组合，在image-based 
 
 在一些数据上验证这个技术贡献，调效果。
 
-![⚠️ Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 不能期望论文story好听、application有意思，reviewer就会放过我们的技术贡献。
 具体看这个文档：<https://www.notion.so/pengsida/434a6b3e34d0403ca178fb0db2338232>
 
 高水平科研工作者对goal-driven research的讨论（此人不推荐idea-driven research）
 
-![](/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F301e769d-cb50-4fef-be25-d87fe03b5487%2Fproblem-driven_research.png?table=block&id=9f10858e-51bd-49b9-8c23-fff3d0b3f488&spaceId=952f5f87-b692-4249-a557-7f7ad0a77d56&width=960&userId=&cache=v2&imgBuildSrc=requestProxiedImageUrl)
+![](../../assets/da6ce171-培养想idea能力/img-06.png)
 
 <https://agents.inf.ed.ac.uk/phd-handbook/?show=problem-research>
 
@@ -131,8 +123,6 @@ Goal-driven research的风格是追求重要的任务，试各种方法把这个
 
 当出现新锤子的时候，非常值得拿新锤子来做自己roadmap上的某一个milestone task，这样容易做出有影响力的工作。
 
-![⚠️ Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 注意，不是在新锤子的task setting上做改进（比如在NeRF的task setting上调它所用数据集的view synthesis的效果），而是拿新锤子来解决自己在做的milestone tasks的问题（仍然是goal-driven research）。
 
 有很多这种例子
@@ -147,8 +137,6 @@ Stable diffusion出来的时候，拿来搞DreamFusion、DreamBooth
 
 想idea时需要注意的点（什么样的project不值得做）
 
-![⚠️ Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 提出idea并做一篇论文是为了给领域做出实际的贡献，不是为了论文本身。
 如果一篇论文对领域没有贡献，那么做这篇论文就是在浪费自己的时间，因为我们不会通过这篇论文收获领域的respect，甚至可能收获负面评价。
 做这种论文的好处：（1）熟悉投稿流程。（2）有几率收获一篇论文（但概率较小）。
@@ -156,16 +144,12 @@ Stable diffusion出来的时候，拿来搞DreamFusion、DreamBooth
 
 特别需要注意的点：不要形成依赖导师的心理，要锻炼自己独立自主做科研的习惯和能力。（某种角度上可以说比发论文本身还重要。而且其实自己要有这个能力才能大概率做出论文，不然这个project基本完蛋）
 
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 事实上，导师难以有时间去设计Project的技术细节，学生需要认识到得靠自己想解法才有出路。
 如果学生依赖导师去想详细的解法，那这个project基本完蛋。因为导师没法每天花一半的时间以上去想解法，只能给出一些intuitive的非常粗糙的想法。这种情况下，只能学生自己去提出或完善得到一个完整的解法。
 
 实验室培养学生独立自主的科研能力的经验，有两点，做project的时候：
 (1) 遇到问题时，先问学生的想法，鼓励学生有自己的想法（解决问题的解法，接下来做什么），耐心听完学生的想法。
 (2) 不要让学生产生依赖的心理（尊重学生的想法，不指挥学生做啥做啥，不指定让学生做很具体的算法上的事情，只是给出一些可选的建议）。
-
-![💡 Callout icon](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 在一个research project中，实验室一般在两个方面做出较大的贡献：(1) 想重要的novel task，帮助寻找重要的科研问题。(2) Review论文，建议一些有趣的实验、applications和demo，追求挑出论文中所有的问题，并给出改进建议。
 在构建解决问题的解法方面，实验室一般有三点贡献： 
