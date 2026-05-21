@@ -1,0 +1,11 @@
+# staging/ 是抓取阶段中转目录，最终内容会重组到 content/ 里
+# 抓取生成的 *.images.txt、*.zhihu.txt 等元数据文件不入库
+staging/notion-raw/*.images.txt
+staging/notion-raw/*.zhihu.txt
+staging/discovered-subpages.txt
+
+# Python / 编辑器临时文件
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
